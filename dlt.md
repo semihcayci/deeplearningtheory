@@ -4,7 +4,13 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 ## Basics of Machine Learning
 
+1. [Concentration inequalities: Chernoff-Hoeffding](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/2_Concentration%20Inequalities%20for%20Machine%20Learning/1_ChernoffHoeffding.pdf)
+2. [Concentration inequalities: Martingale-based bounds](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/2_Concentration%20Inequalities%20for%20Machine%20Learning/2_Azuma-McDiarmid.pdf)
+3. [Basic supervised learning](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/3_Basics%20of%20(Supervised)%20Learning%20Theory/1_Basic%20Supervised%20Learning.pdf)
+4. [Empirical risk minimization](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/3_Basics%20of%20(Supervised)%20Learning%20Theory/2_ERM.pdf)
 
+[Exercise sheet 0](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/voluntary-exercise-sheet0.pdf)
+[Exercise sheet 1](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/Assignment1.pdf)
 
 ## Optimization for Deep Learning
 
