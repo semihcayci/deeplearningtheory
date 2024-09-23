@@ -58,3 +58,7 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 2. [Universal approximation theorem](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/2_Universal%20Approximation.pdf)
 
 [References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/6_Approximation%20Bounds%20for%20Neural%20Networks/3_References.html)
+
+## References
+1. ["Deep Learning Theory Lecture Notes" by Matus Telgarsky, 2021](https://mjt.cs.illinois.edu/courses/dlt-f22/)
+2. ["Learning Theory from First Principles" by Francis Bach, 2023](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
