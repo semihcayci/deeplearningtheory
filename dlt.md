@@ -2,7 +2,7 @@
 
 Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
-## Basics of Machine Learning
+## 0. Basics of Machine Learning
 
 1. [Concentration inequalities: Chernoff-Hoeffding](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/2_Concentration%20Inequalities%20for%20Machine%20Learning/1_ChernoffHoeffding.pdf)
 2. [Concentration inequalities: Martingale-based bounds](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/2_Concentration%20Inequalities%20for%20Machine%20Learning/2_Azuma-McDiarmid.pdf)
@@ -12,7 +12,24 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 [Exercise sheet 0](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/voluntary-exercise-sheet0.pdf)
 [Exercise sheet 1](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/Assignment1.pdf)
 
-## Optimization for Deep Learning
+## 1. Optimization for Deep Learning
+
+### Basics
+1. [ERM as an optimization problem](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/1_ERM%20as%20Optimization.pdf)
+2. [Convex optimization basics](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/2_Convex%20Optimization%20Basics.pdf)
+3. [Projected subgradient descent](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/3_Projected%20Subgradient%20Descent.pdf)
+4. [Gradient descent for strongly-convex and non-smooth optimization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/4_Gradient%20Descent%20for%20Strongly___vex%20Nonsmooth%20Optimization.pdf)
+5. [Gradient descent for smooth optimization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/5_Gradient%20Descent%20for%20Smooth%20a___trongly%20Convex%20Functions%202.pdf)
+6. [Stochastic gradient descent (SGD)](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/6_SGD%204.pdf)
+### Gradient descent for overparameterized ReLU networks -- NTK-Based Approach
+1. [Main idea: Linearization around random initialization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/1.%20Linearization.pdf)
+2. [Neural tangent kernel](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/2.%20Neural%20Tangent%20Kernel%20-%20Slides.pdf)
+3. [Gradient descent for regression](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/3a.%20Gradient%20Descent%20-%20Regression.pdf)
+4. [Supplementary: a study of linear regression](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/3b.%20Gradient%20Descent%20for%20Linear%20Regression%20-%20Slides.pdf)
+5. [Massive overparameterization: Convergence of gradient flow](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/4.%20Gradient%20Flow%20under%20Overparameterization.pdf)
+
+[Exercise sheet 2](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/Assignment2.pdf)
+   
 
 This book is on the non-asymptotic theory of high-dimensional statistics. It starts with an elegant treatment of tail and concentration bounds, and covers modern statistical subjects: non-parametric regression, RKHS (reproducible kernel Hilbert spaces), random matrix theory, graphical models, sparse linear models, uniform laws, etc. 
 
