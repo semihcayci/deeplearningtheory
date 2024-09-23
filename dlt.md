@@ -45,4 +45,5 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 ## Universal Approximation Theorems for Deep Learning
 
-Classical book on large sample properties and approximations of statistical tests, estimators and procedures.
+1. [Grid-based approximation and curse of dimensionality](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/1_Grid-Based%20Approximation.pdf)
+2. [Universal approximation theorem](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/2_Universal%20Approximation.pdf)
