@@ -32,20 +32,16 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 [Exercise sheet 2: Convex optimization algorithms](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/Assignment2.pdf)
 
 [Exercise sheet 3: Analysis of GD in the NTK regime](https://github.com/semihcayci/deeplearningtheory/blob/c42abce4a47a1e0e73e7d04022b69f230416c17c/Assignment3.pdf)
-   
-
-This book is on the non-asymptotic theory of high-dimensional statistics. It starts with an elegant treatment of tail and concentration bounds, and covers modern statistical subjects: non-parametric regression, RKHS (reproducible kernel Hilbert spaces), random matrix theory, graphical models, sparse linear models, uniform laws, etc. 
-
-For _concentration bounds_ and _kernel methods_, this book is my favorite.
 
 ## Generalization in Deep Learning
-### [A. Topics in Non-Parametric Statistics - A. Nemirovski](https://www2.isye.gatech.edu/~nemirovs/Lect_SaintFlour.pdf)
+1. [Generalization in deep learning via uniform convergence: Rademacher complexity of ReLU networks](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/1_Generalization%20Bounds%20-%20Rademacher.pdf)
+2. [Generalization in deep learning via covering bounds](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/2_Covering%20Bounds.pdf)
+3. [Algorithm-dependent generalization via Donsker-Varadhan variational principle](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/3_Algorithm-Dependent%20Generalization%204.pdf)
+4. [Implicit bias of gradient descent: linear regression](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/4_Implicit%20Bias.pdf)
 
-How can you perform statistical inference on infinite-dimensional parameters (e.g., functions, time-dependent signals) from noisy observations? This book provides concise answers to this question by focusing on estimating non-parametric regression to functions and functionals. It is a bit difficult to read because of the notation, but it seems to be highly insightful and self-contained.
+[Exercise sheet 4: Generalization basics](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/Assignment4.pdf)
 
-### [B. Statistical Inference via Convex Optimization - A. Juditsky and A. Nemirovski](https://www2.isye.gatech.edu/~nemirovs/StatOptNoSolutions.pdf)
-
-It is a brand new book due April 2020 on statistical inference. The subjects include (2A) and extend to signal recovery, (sequential) hypothesis testing and sparse recovery.
+[Exercise sheet 5: Generalization in deep learning](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/Assignment5.pdf)
 
 ## Universal Approximation Theorems for Deep Learning
 
