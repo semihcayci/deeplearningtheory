@@ -13,6 +13,8 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 [Exercise sheet 1: Basics of PAC-SL](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/Assignment1.pdf)
 
+[References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/2_Concentration%20Inequalities%20for%20Machine%20Learning/3_Supplementary%20References.html)
+
 ## 1. Optimization for Deep Learning
 
 ### Basics of Convex Optimization
@@ -22,6 +24,9 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 4. [Gradient descent for strongly-convex and non-smooth optimization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/4_Gradient%20Descent%20for%20Strongly___vex%20Nonsmooth%20Optimization.pdf)
 5. [Gradient descent for smooth optimization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/5_Gradient%20Descent%20for%20Smooth%20a___trongly%20Convex%20Functions%202.pdf)
 6. [Stochastic gradient descent (SGD)](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/6_SGD%204.pdf)
+
+[References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/3_Basics%20of%20(Supervised)%20Learning%20Theory/3_Supplementary%20References.html)
+
 ### Gradient descent for overparameterized ReLU networks -- NTK-Based Approach
 1. [Main idea: Linearization around random initialization](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/1.%20Linearization.pdf)
 2. [Neural tangent kernel](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/2.%20Neural%20Tangent%20Kernel%20-%20Slides.pdf)
@@ -33,6 +38,8 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 [Exercise sheet 3: Analysis of GD in the NTK regime](https://github.com/semihcayci/deeplearningtheory/blob/c42abce4a47a1e0e73e7d04022b69f230416c17c/Assignment3.pdf)
 
+[References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/4_Optimization%20for%20Deep%20Learning/8_References.html)
+
 ## Generalization in Deep Learning
 1. [Generalization in deep learning via uniform convergence: Rademacher complexity of ReLU networks](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/1_Generalization%20Bounds%20-%20Rademacher.pdf)
 2. [Generalization in deep learning via covering bounds](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/2_Covering%20Bounds.pdf)
@@ -43,7 +50,11 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 [Exercise sheet 5: Generalization in deep learning](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/Assignment5.pdf)
 
+[References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/5_Generalization%20Bounds%20for%20Deep%20Learning/5_References.html)
+
 ## Universal Approximation Theorems for Deep Learning
 
 1. [Grid-based approximation and curse of dimensionality](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/1_Grid-Based%20Approximation.pdf)
 2. [Universal approximation theorem](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/2_Universal%20Approximation.pdf)
+
+[References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/6_Approximation%20Bounds%20for%20Neural%20Networks/3_References.html)
