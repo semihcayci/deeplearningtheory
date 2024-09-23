@@ -10,6 +10,7 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 4. [Empirical risk minimization](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/3_Basics%20of%20(Supervised)%20Learning%20Theory/2_ERM.pdf)
 
 [Exercise sheet 0: Concentration inequalities](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/voluntary-exercise-sheet0.pdf)
+
 [Exercise sheet 1: Basics of PAC-SL](https://github.com/semihcayci/deeplearningtheory/blob/17170abf7c283274caf01e2abf2629e0b55d2c1a/Assignment1.pdf)
 
 ## 1. Optimization for Deep Learning
@@ -29,6 +30,7 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 5. [Massive overparameterization: Convergence of gradient flow](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/4_Optimization%20for%20Deep%20Learning/7_Optimization%20in%20Neural%20Tangent%20Kernel%20Regime/4.%20Gradient%20Flow%20under%20Overparameterization.pdf)
 
 [Exercise sheet 2: Convex optimization algorithms](https://github.com/semihcayci/deeplearningtheory/blob/f99b7bc29671d3ea0fc0ebe3e67906e17e9f41eb/Assignment2.pdf)
+
 [Exercise sheet 3: Analysis of GD in the NTK regime](https://github.com/semihcayci/deeplearningtheory/blob/c42abce4a47a1e0e73e7d04022b69f230416c17c/Assignment3.pdf)
    
 
