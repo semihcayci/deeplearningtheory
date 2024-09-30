@@ -40,7 +40,7 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 [References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/4_Optimization%20for%20Deep%20Learning/8_References.html)
 
-## Generalization in Deep Learning
+## 2. Generalization in Deep Learning
 1. [Generalization in deep learning via uniform convergence: Rademacher complexity of ReLU networks](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/1_Generalization%20Bounds%20-%20Rademacher.pdf)
 2. [Generalization in deep learning via covering bounds](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/2_Covering%20Bounds.pdf)
 3. [Algorithm-dependent generalization via Donsker-Varadhan variational principle](https://github.com/semihcayci/deeplearningtheory/blob/4bbdf0249d490eff1045cceb1e8450b120279c64/5_Generalization%20Bounds%20for%20Deep%20Learning/3_Algorithm-Dependent%20Generalization%204.pdf)
@@ -52,7 +52,7 @@ Instructor: Semih Cayci (cayci[at]mathc.rwth-aachen.de)
 
 [References](https://github.com/semihcayci/deeplearningtheory/blob/a322fb0e36ebd7ae4caecd1bcfb24f7b6dedd3cb/5_Generalization%20Bounds%20for%20Deep%20Learning/5_References.html)
 
-## Universal Approximation Theorems for Deep Learning
+## 3. Universal Approximation Theorems for Deep Learning
 
 1. [Grid-based approximation and curse of dimensionality](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/1_Grid-Based%20Approximation.pdf)
 2. [Universal approximation theorem](https://github.com/semihcayci/deeplearningtheory/blob/736556737f894995943f9d3fb6fc9576a983ff8b/6_Approximation%20Bounds%20for%20Neural%20Networks/2_Universal%20Approximation.pdf)
